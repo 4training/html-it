@@ -1,0 +1,47 @@
+{
+    "language_code": "it",
+    "english_name": "Italian",
+    "worksheets": [
+        {
+            "page": "God's_Story_(five_fingers)",
+            "title": "La storia di Dio (cinque dita)",
+            "filename": "La_storia_di_Dio_(cinque_dita).html",
+            "version": "2.1",
+            "pdf": "La_storia_di_Dio_(cinque_dita).pdf"
+        },
+        {
+            "page": "Prayer",
+            "title": "Pregare",
+            "filename": "Pregare.html",
+            "version": "1.1",
+            "pdf": "Pregare.pdf"
+        },
+        {
+            "page": "Forgiving_Step_by_Step",
+            "title": "Passi del perdono",
+            "filename": "Passi_del_perdono.html",
+            "version": "1.3",
+            "pdf": "Passi_del_perdono.pdf"
+        },
+        {
+            "page": "Time_with_God",
+            "title": "Tempo con Dio",
+            "filename": "Tempo_con_Dio.html",
+            "version": "1.2",
+            "pdf": "Tempo_con_Dio.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints",
+            "title": "Segnalibro per la lettura della Bibbia",
+            "filename": "Segnalibro_per_la_lettura_della_Bibbia.html",
+            "version": "2.0"
+        },
+        {
+            "page": "The_Three-Thirds_Process",
+            "title": "Processo in tre parti",
+            "filename": "Processo_in_tre_parti.html",
+            "version": "1.0",
+            "pdf": "Processo_in_tre_parti.pdf"
+        }
+    ]
+}
